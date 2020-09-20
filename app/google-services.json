@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36552947181",
+    "firebase_url": "https://snapechat-d288a.firebaseio.com",
+    "project_id": "snapechat-d288a",
+    "storage_bucket": "snapechat-d288a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36552947181:android:044465c07820681d9323e4",
+        "android_client_info": {
+          "package_name": "com.example.snapechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36552947181-3flfqe8ebftdak1fdth10lkm4pbv4h72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm31XfIUufCwecUmG8kIUnayZg2pkcIxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36552947181-3flfqe8ebftdak1fdth10lkm4pbv4h72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
