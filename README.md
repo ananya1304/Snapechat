@@ -5,3 +5,5 @@ This is a photo sharing service designed to serve to heirs and heiresses of Slyt
 The app has been implemented as an Android app with code written in Java. 
 
 The data for the commons was hosted on AWS.
+
+The name is a pun on Snapchat.
